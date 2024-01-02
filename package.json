@@ -1,0 +1,27 @@
+{
+  "name": "mem_canister",
+  "version": "0.0.1",
+  "description": "MEM Canister on ICP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decentldotland/mem_canister.git"
+  },
+  "keywords": [
+    "ICP",
+    "MEM",
+    "Canister"
+  ],
+  "author": "charmful0x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decentldotland/mem_canister/issues"
+  },
+  "homepage": "https://github.com/decentldotland/mem_canister#readme",
+  "dependencies": {
+    "azle": "^0.19.0"
+  }
+}

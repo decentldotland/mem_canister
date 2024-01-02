@@ -1,0 +1,13 @@
+{
+    "canisters": {
+        "mem_canister": {
+            "type": "custom",
+            "main": "src/index.ts",
+            "candid": "src/index.did",
+            "build": "npx azle mem_canister",
+            "wasm": ".azle/mem_canister/mem_canister.wasm",
+            "gzip": true
+        }
+    }
+}
+
